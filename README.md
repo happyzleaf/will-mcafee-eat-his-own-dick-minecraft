@@ -18,6 +18,6 @@ Screenshots
 
 Credits
 -
-[diegoro](https://github.com/diegorod) for the original algorithm ([WillMcAfeeEatHisOwnDick](https://github.com/diegorod/WillMcAfeeEatHisOwnDick)).
+[diegoro](https://github.com/diegorod) for the original algorithm [WillMcAfeeEatHisOwnDick](https://github.com/diegorod/WillMcAfeeEatHisOwnDick).
 <br>[marios8543](https://github.com/marios8543) for his rest api [will-mcafee-eat-his-own-dick](https://github.com/marios8543/will-mcafee-eat-his-own-dick).
 <br>[happyzleaf](https://happyzleaf.com/) for creating this awesome mod.
