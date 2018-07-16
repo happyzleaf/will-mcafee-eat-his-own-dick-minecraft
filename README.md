@@ -9,6 +9,10 @@ Usage
 4. ???
 5. Profit!
 
+Video
+-
+[![](https://happyzleaf.com/uploads/wmehodcraft.png "Click to open the video")](https://www.youtube.com/watch?v=NkYlck3zwOI)
+
 Screenshots
 -
 ![](https://github.com/happyzleaf/will-mcafee-eat-his-own-dick-minecraft/blob/master/screenshots/no.png?raw=true)
