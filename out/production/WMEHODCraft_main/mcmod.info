@@ -1,0 +1,20 @@
+[
+	{
+		"modid": "wmehod",
+		"name": "WMEHODCraft",
+		"description": "Will McAfee eat his own dick? Let's find out!",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "https://www.happyzleaf.com/",
+		"updateUrl": "",
+		"authorList": [
+			"happyzleaf"
+		],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": [
+			""
+		]
+	}
+]
