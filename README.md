@@ -15,3 +15,9 @@ Screenshots
 <br>![](https://github.com/happyzleaf/will-mcafee-eat-his-own-dick-minecraft/blob/master/screenshots/yes.png?raw=true)
 <br>![](https://github.com/happyzleaf/will-mcafee-eat-his-own-dick-minecraft/blob/master/screenshots/maybe.png?raw=true)
 <br>![](https://github.com/happyzleaf/will-mcafee-eat-his-own-dick-minecraft/blob/master/screenshots/error.png?raw=true)
+
+Credits
+-
+[marios8543](https://github.com/marios8543) for his rest api [will-mcafee-eat-his-own-dick](https://github.com/marios8543/will-mcafee-eat-his-own-dick).
+<br>[diegoro](https://github.com/diegorod) for the original algorithm ([WillMcAfeeEatHisOwnDick](https://github.com/diegorod/WillMcAfeeEatHisOwnDick)).
+<br>[happyzleaf](https://happyzleaf.com/) for creating this awesome mod.
