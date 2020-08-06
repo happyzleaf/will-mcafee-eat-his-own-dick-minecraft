@@ -11,7 +11,7 @@ Usage
 
 Video
 -
-[![](https://happyzleaf.com/uploads/wmehodcraft.png "Click to open the video")](https://www.youtube.com/watch?v=NkYlck3zwOI)
+[![](https://i.imgur.com/SV784P5.png "Click to open the video")](https://www.youtube.com/watch?v=NkYlck3zwOI)
 
 Screenshots
 -
